@@ -1,0 +1,12 @@
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\bin\Debug\net6.0\TurtledDictionary.deps.json
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\bin\Debug\net6.0\TurtledDictionary.dll
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\bin\Debug\net6.0\TurtledDictionary.pdb
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\TurtledDictionary.csproj.AssemblyReference.cache
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\TurtledDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\TurtledDictionary.AssemblyInfoInputs.cache
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\TurtledDictionary.AssemblyInfo.cs
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\TurtledDictionary.csproj.CoreCompileInputs.cache
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\TurtledDictionary.dll
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\refint\TurtledDictionary.dll
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\TurtledDictionary.pdb
+C:\Users\rockp\source\repos\TurtledAuth\TurtledDictionary\obj\Debug\net6.0\ref\TurtledDictionary.dll
